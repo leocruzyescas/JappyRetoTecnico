@@ -1,0 +1,199 @@
+﻿@page "/";
+@using JappyRetoTecnico.Models
+@inject Data.AppDbContext dbContext
+@inject HttpClient httpClient
+@rendermode InteractiveServer
+
+
+<PageTitle>Jappy Form</PageTitle>
+<div class="row">
+    <div class="col-lg-9 mx-auto rounder border p-3">
+        <h2 class="text-center mb-5">INGRESA TUS DATOS</h2>
+        <EditForm Model="@newUsuario" OnValidSubmit="GuardarUsuario" FormName="userForm" @ref="editForm">
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" />
+            <div class="row mb-3">
+                <label>Nombre Completo</label>
+                <div class="col-sm-8">
+                    <InputText id="nombreCompleto" @bind-Value="newUsuario.nombre_completo" readonly ="@isReadOnly"/>
+                    <ValidationMessage For="() =>newUsuario.nombre_completo" class="text-danger" />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label>Fecha de nacimiento</label>
+                <div class="col-sm-8">
+                    <InputDate id="fechaNacimiento" @bind-Value="newUsuario.fecha_nacimiento" @oninput="OnFechaNacimientoInput" readonly="@isReadOnly" />
+                    <ValidationMessage For="() =>newUsuario.fecha_nacimiento" class="text-danger" />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label>Edad</label>
+                <div class="col-sm-8">
+                    <InputNumber id="edad" @bind-Value="newUsuario.edad" readonly />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label>Email</label>
+                <div class="col-sm-8">
+                    <InputText id="email" @bind-Value="newUsuario.email" class="form-control" readonly="@isReadOnly" />
+                    <ValidationMessage For="() =>newUsuario.email" class="text-danger" />
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label>Contraseña</label>
+                <div class="col-sm-8">
+                    <InputText type="password" id="contraseña" @bind-Value="newUsuario.contraseña" class="form-control" readonly="@isReadOnly" />
+                    <ValidationMessage For="() =>newUsuario.contraseña" class="text-danger" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="offset-sm-4" "col-sm-8">
+                    <button type="submit" class="btn btn-primary accordion-item">Agregar Dirección</button>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+@if (isSubmitted)
+{
+    <div class="row">
+        <div class="col-lg-9 mx-auto rounder border p-3">
+            <h2 class="text-center mb-5">INGRESA TU DOMICILIO</h2>
+            <EditForm Model="@newDireccion" OnValidSubmit="SubirDatos" FormName="direccForm">
+                <DataAnnotationsValidator />
+                <ValidationSummary class="text-danger" />
+                <div class="row mb-3">
+                    <label>Direccion</label>
+                    <div class="col-sm-8">
+                        <InputText id="direccion" @bind-Value="newDireccion.direccion" class="form-control" @oninput="ObtenerUbicacion" />
+                        <ValidationMessage For="() =>newDireccion.direccion" class="text-danger" />
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label>Colonia</label>
+                    <div class="col-sm-8">
+                        <InputText id="colonia" @bind-Value="newDireccion.colonia" class="form-control" @oninput="ObtenerUbicacion"/>
+                        <ValidationMessage For="() =>newDireccion.colonia" class="text-danger" />
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label>Ciudad</label>
+                    <div class="col-sm-8">
+                        <InputText id="ciudad" @bind-Value="newDireccion.ciudad" class="form-control" readonly/>
+                        <ValidationMessage For="() =>newDireccion.ciudad" class="text-danger" />
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label>Pais</label>
+                    <div class="col-sm-8">
+                        <InputText id="pais" @bind-Value="newDireccion.pais" class="form-control" readonly/>
+                        <ValidationMessage For="() =>newDireccion.pais" class="text-danger" />
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label>Código Postal</label>
+                    <div class="col-sm-8">
+                        <InputText id="codigoPostal" @bind-Value="newDireccion.codigoPostal" class="form-control" readonly/>
+                        <ValidationMessage For="() =>newDireccion.codigoPostal" class="text-danger" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="offset-sm-4" "col-sm-8">
+                        <button type="submit" class="btn btn-primary accordion-item">Enviar Datos</button>
+                    </div>
+                </div>
+            </EditForm>
+        </div>
+    </div>
+
+}
+
+
+@code {
+    private EditForm editForm;
+    private bool isReadOnly = false;
+    private bool isSubmitted = false;
+    private bool isDireccionReadOnly = false;
+
+
+    [SupplyParameterFromForm]
+
+    public UsuarioInfo newUsuario { get; set; } = new();
+    public Direccion newDireccion { get; set; } = new();
+
+    private void OnFechaNacimientoInput(ChangeEventArgs e)
+    {
+        if (DateTime.TryParse(e.Value.ToString(), out var fechaNacimiento))
+        {
+            newUsuario.fecha_nacimiento = fechaNacimiento;
+            newUsuario.edad = CalcularEdad(fechaNacimiento);
+            StateHasChanged(); 
+        }
+    }
+    private int CalcularEdad(DateTime fechaNacimiento)
+    {
+        var hoy = DateTime.Today;
+        int age = 0;
+
+        if (fechaNacimiento.Year < hoy.Year)
+        {
+            age = hoy.Year - fechaNacimiento.Year;
+            if(hoy.DayOfYear < fechaNacimiento.DayOfYear)
+            {
+                age--;
+            }
+        }
+        return age;
+
+    }
+    private async Task ObtenerUbicacion(ChangeEventArgs e)
+    {
+        try
+        {
+            var url = $"http://ip-api.com/json/?fields=country,city,zip";
+            var response = await httpClient.GetFromJsonAsync<IpApiResponse>(url);
+
+            if (response != null)
+            {
+                newDireccion.ciudad = response.City;
+                newDireccion.pais = response.Country;
+                newDireccion.codigoPostal = response.Zip;
+
+                StateHasChanged();
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error al obtener la ubicación: {ex.Message}");
+        }
+    }
+    private async Task GuardarUsuario()
+    {
+
+        await dbContext.SaveChangesAsync();
+        isReadOnly = true;
+        isSubmitted = true;
+        StateHasChanged();
+
+    }
+    private async Task SubirDatos()
+    {
+        dbContext.Usuario.Add(newUsuario);
+        await dbContext.SaveChangesAsync();
+
+        newDireccion.usuarioId = newUsuario.Id;
+
+        dbContext.Direccion.Add(newDireccion);
+
+        await dbContext.SaveChangesAsync();
+        ClearInputFields();
+        StateHasChanged();
+
+    }
+    private void ClearInputFields()
+    {
+        newUsuario = new();
+        newDireccion = new();
+    }
+
+}

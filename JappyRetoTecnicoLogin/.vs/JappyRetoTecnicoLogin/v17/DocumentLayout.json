@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\services\\captcharserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\services\\captcharserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\services\\icaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\services\\icaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnicologin\\jappyretotecnicologin\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F12BF16-449F-4FD2-A8B7-9974A1F70818}|JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin.csproj|solutionrelative:jappyretotecnicologin\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\App.xaml",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\App.xaml",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\App.xaml",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T05:41:18.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T05:01:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:49:50.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\App.xaml.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\App.xaml.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:49:24.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\MauiProgram.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:55:31.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaptcharServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Services\\CaptcharServiceImplementation.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\Services\\CaptcharServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Services\\CaptcharServiceImplementation.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\Services\\CaptcharServiceImplementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:21:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICaptchaService.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Services\\ICaptchaService.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\Services\\ICaptchaService.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Services\\ICaptchaService.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\Services\\ICaptchaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:20:58.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\AppShell.xaml.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:49:08.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Models\\LoginModel.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:00:04.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T05:08:35.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:48:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\AppShell.xaml",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\AppShell.xaml",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T06:26:38.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\MainPage.xaml",
+              "RelativeDocumentMoniker": "JappyRetoTecnicoLogin\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnicoLogin\\JappyRetoTecnicoLogin\\MainPage.xaml",
+              "RelativeToolTip": "JappyRetoTecnicoLogin\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T06:26:23.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

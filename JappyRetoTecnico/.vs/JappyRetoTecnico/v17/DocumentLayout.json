@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\models\\ipapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\models\\ipapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\models\\googlegeocoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\models\\googlegeocoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\models\\usuariodireccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\models\\usuariodireccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\models\\viewmodels\\usuarioformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\models\\viewmodels\\usuarioformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\components\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\components\\pages\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\jappyretotecnico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\jappyretotecnico.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|c:\\users\\leonardo cruz\\source\\repos\\jappyretotecnico\\jappyretotecnico\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4C6C7017-7B1B-4B06-97FA-16CB8EAA3095}|JappyRetoTecnico\\JappyRetoTecnico.csproj|solutionrelative:jappyretotecnico\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "JappyRetoTecnico\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwIAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T23:11:31.449Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\Usuario.cs",
+              "RelativeToolTip": "JappyRetoTecnico\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:39:07.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioDireccion.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\UsuarioDireccion.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Models\\UsuarioDireccion.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\UsuarioDireccion.cs",
+              "RelativeToolTip": "JappyRetoTecnico\\Models\\UsuarioDireccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:01:23.076Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\App.razor",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\App.razor",
+              "RelativeToolTip": "JappyRetoTecnico\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:17:24.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "JappyRetoTecnico\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:20:57.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Program.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Program.cs",
+              "RelativeToolTip": "JappyRetoTecnico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:17:09.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\appsettings.json",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\appsettings.json",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\appsettings.json",
+              "RelativeToolTip": "JappyRetoTecnico\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T00:42:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IpApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\IpApiResponse.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Models\\IpApiResponse.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\IpApiResponse.cs",
+              "RelativeToolTip": "JappyRetoTecnico\\Models\\IpApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:29:24.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\ViewModels\\UsuarioFormVM.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Models\\ViewModels\\UsuarioFormVM.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\ViewModels\\UsuarioFormVM.cs",
+              "RelativeToolTip": "JappyRetoTecnico\\Models\\ViewModels\\UsuarioFormVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:38:13.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Pages\\Home.js",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Components\\Pages\\Home.js",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Pages\\Home.js",
+              "RelativeToolTip": "JappyRetoTecnico\\Components\\Pages\\Home.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T02:46:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\appsettings.Development.json",
+              "RelativeToolTip": "JappyRetoTecnico\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T19:35:59.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Routes.razor",
+              "RelativeToolTip": "JappyRetoTecnico\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:17:27.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\_Imports.razor",
+              "RelativeToolTip": "JappyRetoTecnico\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:17:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "JappyRetoTecnico\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:17:34.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleGeocodeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\GoogleGeocodeResponse.cs",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Models\\GoogleGeocodeResponse.cs",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Models\\GoogleGeocodeResponse.cs",
+              "RelativeToolTip": "JappyRetoTecnico\\Models\\GoogleGeocodeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:41:07.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "favicon.png - PNG [32x32, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\wwwroot\\favicon.png - PNG [32x32, 32 bits, PNG]",
+              "RelativeToolTip": "JappyRetoTecnico\\wwwroot\\favicon.png - PNG [32x32, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-08T07:17:58.498Z",
+              "EditorCaption": " - PNG [32x32, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "JappyRetoTecnico\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T07:19:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JappyRetoTecnico",
+              "DocumentMoniker": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\JappyRetoTecnico.csproj",
+              "RelativeDocumentMoniker": "JappyRetoTecnico\\JappyRetoTecnico.csproj",
+              "ToolTip": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\JappyRetoTecnico.csproj",
+              "RelativeToolTip": "JappyRetoTecnico\\JappyRetoTecnico.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T07:31:09.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

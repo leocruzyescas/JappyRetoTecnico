@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JappyRetoTecnico.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JappyRetoTecnico.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo Cruz\\source\\repos\\JappyRetoTecnico\\JappyRetoTecnico\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JappyRetoTecnico.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JappyRetoTecnico.props",
+      "PackagePath": "build\\JappyRetoTecnico.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JappyRetoTecnico.props",
+      "PackagePath": "buildMultiTargeting\\JappyRetoTecnico.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JappyRetoTecnico.props",
+      "PackagePath": "buildTransitive\\JappyRetoTecnico.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
